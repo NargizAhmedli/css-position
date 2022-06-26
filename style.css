@@ -1,0 +1,34 @@
+.news{
+    position: relative;
+    margin: 0 auto;
+    background-color: rgb(219, 83, 83);
+    height: 500px;
+    width: 600px;
+}
+.news{
+    position: relative;
+    margin: 0 auto;
+    width: 600px;
+    height: 500px;
+    background-color: rgb(241, 224, 224);
+}
+.date-time{
+    position: absolute;
+    height: 50px;
+    width: 240px;
+    bottom: 0;
+    background-color: rgb(91, 91, 255);
+}
+.date-time h3{
+    display: inline-block;
+}
+.description{
+    position: absolute;
+    width: 600px;
+    padding: 0;
+    height: 100px;
+    background-color: rgb(41, 41, 41);
+}
+.description h2{
+    color:white;
+}
